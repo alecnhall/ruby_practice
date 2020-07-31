@@ -1,1 +1,3 @@
-# ruby_practice
+# Ruby Practice
+
+Daily Ruby Challenges
