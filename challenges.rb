@@ -1,1 +1,6 @@
-# return "hello world" to console 
+# function that returns "hello world" to console 
+
+def hello()
+	return "hello world"
+end
+
